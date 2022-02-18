@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8182437"
+    build_id: "8188705"
     target: "slider_gki_kasan"
     source_file: "heatmap.ko"
   }
   dest_file: "kasan/heatmap.ko"
-  version: "Linux version 5.10.98-android13-0-00003-g6ea688a79989-ab8182437 (build-user@build-host) (Android (8075178, based on r437112b) clang version 14.0.1 (https://android.googlesource.com/toolchain/llvm-project 8671348b81b95fc603505dfc881b45103bee1731), LLD 14.0.1) #1 SMP PREEMPT Tue Feb 8 00:20:26 UTC 2022"
+  version: "Linux version 5.10.100-android13-0-00137-g6d6288c745b2-ab8188705 (build-user@build-host) (Android (8148192, based on r445002) clang version 14.0.2 (https://android.googlesource.com/toolchain/llvm-project ae8d7d1dee3175cbfe3887834135abee1dcfcb68), LLD 14.0.2) #1 SMP PREEMPT Tue Feb 15 09:54:00 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
