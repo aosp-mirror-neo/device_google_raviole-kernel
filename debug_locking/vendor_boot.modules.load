@@ -30,6 +30,7 @@ kernel/drivers/soc/google/vh/kernel/sched/vh_preemptirq_long.ko
 kernel/drivers/soc/google/vh/kernel/systrace.ko
 kernel/drivers/soc/google/vh/kernel/thermal/vh_thermal.ko
 kernel/drivers/soc/google/vh/kernel/fs/vh_fs.ko
+kernel/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 kernel/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 kernel/drivers/soc/google/vh/kernel/i2c/vh_i2c.ko
 kernel/drivers/soc/google/gs-chipid.ko
@@ -122,7 +123,6 @@ kernel/drivers/rtc/rtc-s2mpg10.ko
 kernel/drivers/i2c/busses/i2c-exynos5.ko
 kernel/drivers/i2c/busses/i2c-acpm.ko
 kernel/drivers/i2c/i2c-dev.ko
-kernel/drivers/media/common/videobuf2/videobuf2-dma-sg.ko
 kernel/drivers/media/platform/exynos/mfc/exynos_mfc.ko
 kernel/drivers/media/platform/bigocean/bigocean.ko
 kernel/drivers/media/platform/exynos/smfc/smfc.ko
