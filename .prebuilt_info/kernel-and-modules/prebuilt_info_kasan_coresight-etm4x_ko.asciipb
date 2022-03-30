@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8366029"
+    build_id: "8379639"
     target: "slider_gki_kasan"
     source_file: "coresight-etm4x.ko"
   }
