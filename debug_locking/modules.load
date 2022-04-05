@@ -14,6 +14,7 @@ kernel/drivers/soc/google/debug/dss.ko
 kernel/drivers/soc/google/debug/debug-snapshot-sfrdump.ko
 kernel/drivers/soc/google/debug/debug-snapshot-qd.ko
 kernel/drivers/soc/google/debug/debug-snapshot-debug-kinfo.ko
+kernel/drivers/soc/google/debug/ehld.ko
 kernel/drivers/soc/google/debug/exynos-debug-test.ko
 kernel/drivers/soc/google/debug/pixel-debug-test.ko
 kernel/drivers/soc/google/debug/gs101-itmon.ko
@@ -105,6 +106,7 @@ kernel/drivers/spi/spidev.ko
 kernel/drivers/spi/spi-s3c64xx.ko
 kernel/drivers/usb/dwc3/dwc3-exynos-usb.ko
 kernel/drivers/usb/host/xhci-exynos.ko
+kernel/drivers/usb/gadget/function/usb_f_rndis.ko
 kernel/drivers/usb/gadget/function/usb_f_dm.ko
 kernel/drivers/usb/gadget/function/usb_f_dm1.ko
 kernel/drivers/usb/gadget/function/usb_f_etr_miu.ko

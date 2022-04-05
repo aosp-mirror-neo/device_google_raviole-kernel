@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8386479"
+    build_id: "8403962"
     target: "slider_gki_debug_memory"
     source_file: "pixel-boot-metrics.ko"
   }
   dest_file: "debug_memory/pixel-boot-metrics.ko"
-  version: "Linux version 5.10.107-android13-2-00404-g93846ccca109-ab8350305 (build-user@build-host) (Android (8225204, based on r445002) clang version 14.0.2 (https://android.googlesource.com/toolchain/llvm-project ae8d7d1dee3175cbfe3887834135abee1dcfcb68), LLD 14.0.2) #1 SMP PREEMPT Thu Mar 24 09:02:48 UTC 2022"
+  version: "Linux version 5.10.107-android13-2-00431-ge69c61cf4eba-ab8377321 (build-user@build-host) (Android (8347023, based on r450784) clang version 14.0.3 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.3) #1 SMP PREEMPT Tue Mar 29 16:09:26 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
