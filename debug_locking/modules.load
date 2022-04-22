@@ -68,6 +68,7 @@ kernel/drivers/soc/google/s2mpu/s2mpu.ko
 kernel/drivers/soc/google/hardlockup-debug.ko
 kernel/drivers/soc/google/hardlockup-watchdog.ko
 kernel/drivers/soc/google/sysrq-hook.ko
+kernel/drivers/soc/google/pixel_em/pixel_em.ko
 kernel/drivers/soc/google/pixel_stat/pixel_stat_sysfs.ko
 kernel/drivers/soc/google/pixel_stat/mm/pixel_stat_mm.ko
 kernel/drivers/soc/google/dbgcore-dump.ko
