@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8500313"
+    build_id: "8505494"
     target: "slider_gki"
     source_file: "exynos-pd_el3.ko"
   }
