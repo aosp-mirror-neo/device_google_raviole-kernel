@@ -67737,9 +67737,9 @@ ffffffc8123d0474 d ptychar
 ffffffc8123dc33d d task_index_to_char.state_char
 ffffffc8123dc33d d task_index_to_char.state_char
 ffffffc8123dc33d d task_index_to_char.state_char
-ffffffc8123e9f17 d trunc_msg
-ffffffc81240c4d8 d f_midi_shortname
-ffffffc81244003a d f_midi_longname
+ffffffc8123e9f44 d trunc_msg
+ffffffc81240c51b d f_midi_shortname
+ffffffc812440048 d f_midi_longname
 ffffffc81246761e d slot_type_char
 ffffffc812467622 d HIDPP_FF_CONDITION_CMDS
 ffffffc812467626 d lowpan_ttl_values
