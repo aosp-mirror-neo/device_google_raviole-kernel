@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8552852"
+    build_id: "8567594"
     target: "slider_gki"
     source_file: "max77759_charger.ko"
   }
