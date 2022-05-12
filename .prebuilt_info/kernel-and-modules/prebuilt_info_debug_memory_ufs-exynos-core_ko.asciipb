@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8567594"
+    build_id: "8571752"
     target: "slider_gki_debug_memory"
     source_file: "ufs-exynos-core.ko"
   }
