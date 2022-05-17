@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8580114"
+    build_id: "8598299"
     target: "slider_gki"
     source_file: "panel-samsung-emul.ko"
   }
