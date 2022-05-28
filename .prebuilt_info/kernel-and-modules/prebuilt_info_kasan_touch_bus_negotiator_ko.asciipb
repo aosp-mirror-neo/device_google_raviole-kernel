@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8637846"
+    build_id: "8653406"
     target: "slider_gki_kasan"
     source_file: "touch_bus_negotiator.ko"
   }
