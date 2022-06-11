@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8612202"
+    build_id: "8700203"
     target: "slider_gki_kasan"
     source_file: "memlat-devfreq.ko"
   }
   dest_file: "kasan/memlat-devfreq.ko"
-  version: "Linux version 5.10.107-android13-4-00029-g4f1e1edb0859-ab8589899 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Fri May 13 21:25:46 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-00004-g257fcb7ba558-ab8687387 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Jun 6 18:03:57 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
