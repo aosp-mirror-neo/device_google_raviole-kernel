@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8188705"
+    build_id: "8758087"
     target: "slider_gki_debug_locking"
     source_file: "usb_f_etr_miu.ko"
   }
   dest_file: "debug_locking/usb_f_etr_miu.ko"
-  version: "Linux version 5.10.100-android13-0-00137-g6d6288c745b2-ab8188705 (build-user@build-host) (Android (8148192, based on r445002) clang version 14.0.2 (https://android.googlesource.com/toolchain/llvm-project ae8d7d1dee3175cbfe3887834135abee1dcfcb68), LLD 14.0.2) #1 SMP PREEMPT Tue Feb 15 09:54:00 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-00005-ge05ae1680b1c-ab8715050 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Jun 13 03:29:10 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }

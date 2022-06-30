@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7774802"
+    build_id: "8758087"
     target: "slider_gki"
     source_file: "boot.img"
   }
   dest_file: "boot.img"
-  version: "Linux version 5.10.63-android13-0-00042-g47eca0506306-ab7774802 (build-user@build-host) (Android (7612306, based on r428724) clang version 13.0.1 (https://android.googlesource.com/toolchain/llvm-project 6b0889cc0e9e868502342d9930a7717ff515e90b), LLD 13.0.1 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld 6b0889cc0e9e868502342d9930a7717ff515e90b)) #1 SMP PREEMPT Fri Sep 10 08:46:11 UTC 2021"
+  version: "Linux version 5.10.107-android13-4-00005-ge05ae1680b1c-ab8715050 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Jun 13 03:29:10 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
