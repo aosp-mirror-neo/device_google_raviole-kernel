@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "8804733"
+    build_id: "8826579"
     target: "slider_gki_kasan"
     source_file: "st21nfc.ko"
   }
   dest_file: "kasan/st21nfc.ko"
-  version: "Linux version 5.10.107-android13-4-00033-gda358e264cbe-ab8775573 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Sun Jun 26 23:49:25 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-00002-gace01eaf6ba6-ab8812237 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Fri Jul 8 03:41:42 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
