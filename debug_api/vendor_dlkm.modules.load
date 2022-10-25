@@ -1,5 +1,6 @@
 kernel/drivers/pinctrl/pinctrl-slg51000.ko
 kernel/drivers/regulator/slg51000-regulator.ko
+kernel/drivers/mfd/s2mpg1x-gpio-gs101.ko
 kernel/drivers/mfd/slg51000-core.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
 kernel/drivers/pps/clients/pps-gpio.ko
@@ -11,6 +12,7 @@ kernel/drivers/hwtracing/coresight/coresight-replicator.ko
 kernel/drivers/hwtracing/coresight/coresight-etm4x.ko
 kernel/net/core/pktgen.ko
 extra/bcmdhd4389.ko
+extra/bigocean.ko
 extra/drv2624.ko
 extra/ftm5.ko
 extra/goog_touch_interface.ko
