@@ -1,4 +1,5 @@
 kernel/drivers/pinctrl/pinctrl-slg51000.ko
+kernel/drivers/soc/google/vh/kernel/metrics.ko
 kernel/drivers/regulator/slg51000-regulator.ko
 kernel/drivers/mfd/slg51000-core.ko
 kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
