@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9739629"
+    build_id: "9778086"
     target: "slider_gki_debug_kmemleak"
     source_file: "overheat_mitigation.ko"
   }
   dest_file: "debug_kmemleak/overheat_mitigation.ko"
-  version: "Linux version 5.10.149-android13-4-693040-g6422af733678-ab9739629 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Fri Mar 10 01:44:38 UTC 2023"
+  version: "Linux version 5.10.157-android13-4-694240-g1866f22d77bf-ab9778086 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Mar 20 14:51:23 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
