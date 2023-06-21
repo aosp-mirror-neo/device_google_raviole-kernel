@@ -35,7 +35,6 @@ kernel/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 kernel/drivers/soc/google/vh/kernel/cgroup/vh_cgroup.ko
 kernel/drivers/soc/google/vh/kernel/i2c/vh_i2c.ko
 kernel/drivers/soc/google/vh/kernel/pixel_em/pixel_em.ko
-kernel/drivers/soc/google/vh/kernel/metrics/pixel_metrics.ko
 kernel/drivers/soc/google/gs-chipid.ko
 kernel/drivers/soc/google/cal-if/cmupmucal.ko
 kernel/drivers/soc/google/exynos-pmu-if.ko
@@ -76,7 +75,6 @@ kernel/drivers/soc/google/pixel_stat/mm/pixel_stat_mm.ko
 kernel/drivers/soc/google/dbgcore-dump.ko
 kernel/drivers/soc/google/exynos-seclog.ko
 kernel/drivers/soc/google/boot_control/boot_control_sysfs.ko
-kernel/drivers/soc/google/kernel-top.ko
 kernel/drivers/regulator/max77826-gs-regulator.ko
 kernel/drivers/regulator/pmic_class.ko
 kernel/drivers/regulator/s2mpg10-regulator.ko
