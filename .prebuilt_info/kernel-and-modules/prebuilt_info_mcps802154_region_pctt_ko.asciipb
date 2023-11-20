@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11095200"
+    build_id: "11118554"
     target: "slider_gki"
     source_file: "mcps802154_region_pctt.ko"
   }
   dest_file: "mcps802154_region_pctt.ko"
-  version: "11095200"
+  version: "11118554"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
