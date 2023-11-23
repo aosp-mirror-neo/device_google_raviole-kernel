@@ -106289,11 +106289,11 @@ ffffffc009e6e8e0 D kallsyms_names
 ffffffc00a0fef90 D kallsyms_markers
 ffffffc00a0ffae8 D kallsyms_token_table
 ffffffc00a0ffea0 D kallsyms_token_index
-ffffffc00a1079f4 d hci_reset_dev.hw_err
-ffffffc00a13d99f d max_tt_usecs
-ffffffc00a15ce20 d ptychar
+ffffffc00a107a3e d hci_reset_dev.hw_err
+ffffffc00a13d9b5 d max_tt_usecs
+ffffffc00a15ce36 d ptychar
 ffffffc00a16a76f d task_index_to_char.state_char.10117
-ffffffc00a179718 d trunc_msg
+ffffffc00a1796d6 d trunc_msg
 ffffffc00a18267b d show_irq_gap.zeros
 ffffffc00a19f9ae d f_midi_shortname
 ffffffc00a1d894b d f_midi_longname
