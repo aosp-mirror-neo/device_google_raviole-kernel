@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11472409"
+    build_id: "11485126"
     target: "slider_gki"
     source_file: "pps_core.ko"
   }
   dest_file: "pps_core.ko"
-  version: "11472409"
+  version: "11485126"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
