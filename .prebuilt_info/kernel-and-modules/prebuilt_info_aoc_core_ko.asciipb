@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11187870"
+    build_id: "11503673"
     target: "slider_gki"
     source_file: "aoc_core.ko"
   }
   dest_file: "aoc_core.ko"
-  version: "11187870"
+  version: "11503673"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
