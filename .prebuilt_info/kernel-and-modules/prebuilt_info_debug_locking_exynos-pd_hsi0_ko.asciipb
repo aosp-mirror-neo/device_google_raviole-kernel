@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11158565"
+    build_id: "11699125"
     target: "slider_gki_debug_locking"
-    source_file: "vh_i2c.ko"
+    source_file: "exynos-pd_hsi0.ko"
   }
-  dest_file: "debug_locking/vh_i2c.ko"
-  version: "11158565"
+  dest_file: "debug_locking/exynos-pd_hsi0.ko"
+  version: "11699125"
   version_group: "kernel-and-modules"
   git_project: "device/google/raviole-kernel"
 }
